@@ -1,4 +1,4 @@
-### Hi there, I'm FourTOne5 a incognito student devoloper 👋 
+### Hi there, I'm FourTOne5 👋 
 
 <!--
 **FourTOne5/FourTOne5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I'm a student, devoloper, gamer who is constantly trying to hide his identity!
+- 🔭 I’m currently working on a Discord Bot.
+
 ### Contact me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="FourTOne5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[youtube]
 [instagram]: https://instagram.com/fourtone5
