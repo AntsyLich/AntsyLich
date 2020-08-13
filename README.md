@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I want to learn hacking. 
 - 👯 I’m looking to collaborate on open source projects so I can gain more knowledge.
 
-### Contact me:
+### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="FourTOne5 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
