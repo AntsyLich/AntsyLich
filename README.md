@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/FourTOne5">
-  <img src="https://github-readme-stats.vercel.app/api?username=FourTOne5&bg_color=30,000000,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FourTOne5&bg_color=30,000000,232526,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true" />
 </a><a href="https://github.com/FourTOne5">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourTOne5&layout=compact&langs_count=9&hide=css,html" />
 </a>
