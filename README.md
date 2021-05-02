@@ -1,11 +1,11 @@
 ### Hi there, I'm FourTOne5 👋 
 
 ## I'm a Student, Devoloper, Gamer and an Otaku I guess.
-- 🔭 I’m currently working on a Discord Bot.
-- 🌱 I want to learn hacking. 
-- 👯 I’m looking to collaborate on open source projects so I can gain more knowledge.
+- 🔭 I’m currently wasting my time.
+- 🌱 I wanna learn hacking. 
+- 👯 I like to contribute on open source projects.
 
-## Programming Language I'm intrested in!
+## Programming Language I'm Learning (or Using)
 
 | Language | Skill Level | Comment |
 | --- | --- | --- |
