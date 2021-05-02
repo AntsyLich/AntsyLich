@@ -17,7 +17,3 @@
 <a href="https://github.com/FourTOne5">
   <img src="https://github-readme-stats.vercel.app/api?username=FourTOne5&bg_color=30,232526,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true&custom_title=Yesh%20my%20stats."/>
 </a> 
-
-<a href="https://github.com/FourTOne5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FourTOne5&langs_count=8"/>
-</a>
