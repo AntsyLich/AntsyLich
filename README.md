@@ -1,4 +1,4 @@
-### Hi there, I'm FourTOne5 👋 
+### Hi there, I'm AntsyLich 👋 
 
 ## I'm a Student, Devoloper, Gamer and an Otaku I guess.
 - 🔭 I’m currently wasting my time.
@@ -14,6 +14,6 @@
 
 ## Stats Time!
 
-<a href="https://github.com/FourTOne5">
-  <img src="https://github-readme-stats.vercel.app/api?username=FourTOne5&bg_color=30,232526,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true&custom_title=Yesh%20my%20stats."/>
+<a href="https://github.com/AntsyLich">
+  <img src="https://github-readme-stats.vercel.app/api?username=AntsyLich&bg_color=30,232526,434343&title_color=fff&text_color=fff&icon_color=fff&show_icons=true&hide_border=true&count_private=true&custom_title=Yesh%20my%20stats."/>
 </a> 
