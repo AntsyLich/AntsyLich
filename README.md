@@ -1,16 +1,7 @@
-### Hi there, I'm AntsyLich 👋 
+#### Hello there, I'm [redacted]. You can also call me Lich. 
 
-## I'm a Student, Devoloper, Gamer and an Otaku I guess.
-- 🔭 I’m currently wasting my time.
-- 🌱 I wanna learn hacking. 
-- 👯 I like to contribute on open source projects.
-
-## Programming Language I'm Learning (or Using)
-
-| Language | Skill Level | Comment |
-| --- | --- | --- |
-| Python | Moderate | Hella easy and hard at same time lol |
-| Kotlin | Begineer | Seems to be easy. Time will tell the rest |
+I'm a student and a hobby programmer aspiring to become a software developer.
+I also like to read manga, manhwa & manhua and watch anime
 
 ## Stats Time!
 
