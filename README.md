@@ -1,7 +1,7 @@
-#### Hello there, I'm [redacted]. You can also call me Lich. 
+#### Hello there, I'm [redacted]. You can also call me AntsyLich. 
 
-I'm a student and a hobby programmer aspiring to become a software developer.
-I also like to read manga, manhwa & manhua and watch anime
+I'm a student and a part time android developer. I hope to become a full time software developer after my graduation.
+I also love to read manga, manhwa & manhua and anything else that has text on top of pctures.
 
 ## Stats Time!
 
